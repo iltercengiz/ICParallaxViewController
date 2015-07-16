@@ -1,4 +1,4 @@
-# NavigationMenuController
+# ICParallaxViewController
 
 ## Author
 
